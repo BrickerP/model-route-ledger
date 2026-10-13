@@ -1,0 +1,24 @@
+[build-system]
+requires = ["setuptools>=61"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "model-route-ledger"
+version = "0.1.0"
+description = "Replay an agent trace: all-Sonnet vs Haiku-5.5-routed cost ledger, price-cliff forecast, PASS/FAIL gates."
+readme = "README.md"
+requires-python = ">=3.10"
+license = { text = "MIT" }
+authors = [{ name = "Yupeng Lu" }]
+keywords = ["llm", "agents", "cost", "routing", "claude", "haiku", "finops"]
+dependencies = []
+
+[project.urls]
+Homepage = "https://github.com/BrickerP/model-route-ledger"
+Hire = "https://brickerp.github.io/hire/"
+
+[project.scripts]
+model-route-ledger = "model_route_ledger.cli:main"
+
+[tool.setuptools.packages.find]
+where = ["src"]

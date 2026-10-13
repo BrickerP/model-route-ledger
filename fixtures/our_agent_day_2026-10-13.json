@@ -1,0 +1,636 @@
+{
+ "name": "our X-growth agent, 2026-10-13 (70 steps)",
+ "source": "actions_log.jsonl of our own X-growth routines (posts/replies are public); tokens estimated from payload sizes",
+ "steps": [
+  {
+   "ts": "2026-10-13T00:14:00+08:00",
+   "routine": "0·掉线补跑",
+   "kind": "log_check",
+   "label": "catchup_check",
+   "input_tokens": 28044,
+   "cached_tokens": 12000,
+   "output_tokens": 200
+  },
+  {
+   "ts": "2026-10-13T08:08:13+0800",
+   "routine": "1·早报与当日计划",
+   "kind": "research_brief",
+   "label": "morning_brief",
+   "input_tokens": 25046,
+   "cached_tokens": 12000,
+   "output_tokens": 3046
+  },
+  {
+   "ts": "2026-10-13T08:58:25+0800",
+   "routine": "3·互动",
+   "kind": "ui_action",
+   "label": "engagement_deferred",
+   "input_tokens": 363,
+   "cached_tokens": 12000,
+   "output_tokens": 120
+  },
+  {
+   "ts": "2026-10-13T08:58:30+08:00",
+   "routine": "2·原创发帖",
+   "kind": "ui_action",
+   "label": "post_skip",
+   "input_tokens": 320,
+   "cached_tokens": 12000,
+   "output_tokens": 120
+  },
+  {
+   "ts": "2026-10-13T09:04:45+08:00",
+   "routine": "0·掉线补跑",
+   "kind": "log_check",
+   "label": "catchup_check",
+   "input_tokens": 28667,
+   "cached_tokens": 12000,
+   "output_tokens": 200
+  },
+  {
+   "ts": "2026-10-13T09:20:00+08:00",
+   "routine": "2·原创发帖",
+   "kind": "draft_public_post",
+   "label": "post",
+   "input_tokens": 6065,
+   "cached_tokens": 12000,
+   "output_tokens": 865
+  },
+  {
+   "ts": "2026-10-13T10:00:37+08:00",
+   "routine": "0·掉线补跑",
+   "kind": "draft_public_reply",
+   "label": "reply",
+   "input_tokens": 3066,
+   "cached_tokens": 12000,
+   "output_tokens": 466
+  },
+  {
+   "ts": "2026-10-13T10:00:37+08:00",
+   "routine": "0·掉线补跑",
+   "kind": "draft_public_reply",
+   "label": "reply",
+   "input_tokens": 3072,
+   "cached_tokens": 12000,
+   "output_tokens": 472
+  },
+  {
+   "ts": "2026-10-13T10:00:37+08:00",
+   "routine": "0·掉线补跑",
+   "kind": "draft_public_reply",
+   "label": "reply",
+   "input_tokens": 3045,
+   "cached_tokens": 12000,
+   "output_tokens": 445
+  },
+  {
+   "ts": "2026-10-13T10:00:37+08:00",
+   "routine": "0·掉线补跑",
+   "kind": "summarize_log",
+   "label": "engagement_round",
+   "input_tokens": 2047,
+   "cached_tokens": 12000,
+   "output_tokens": 247
+  },
+  {
+   "ts": "2026-10-13T10:00:50+08:00",
+   "routine": "0·掉线补跑",
+   "kind": "log_check",
+   "label": "catchup_check",
+   "input_tokens": 29546,
+   "cached_tokens": 12000,
+   "output_tokens": 200
+  },
+  {
+   "ts": "2026-10-13T10:25:03+08:00",
+   "routine": "3·互动",
+   "kind": "draft_public_reply",
+   "label": "quote",
+   "input_tokens": 3047,
+   "cached_tokens": 12000,
+   "output_tokens": 447
+  },
+  {
+   "ts": "2026-10-13T10:25:03+08:00",
+   "routine": "3·互动",
+   "kind": "ui_action",
+   "label": "rate_limit",
+   "input_tokens": 338,
+   "cached_tokens": 12000,
+   "output_tokens": 120
+  },
+  {
+   "ts": "2026-10-13T10:25:03+08:00",
+   "routine": "3·互动",
+   "kind": "scan_classify",
+   "label": "lead_scan",
+   "input_tokens": 6028,
+   "cached_tokens": 12000,
+   "output_tokens": 250
+  },
+  {
+   "ts": "2026-10-13T10:25:03+08:00",
+   "routine": "3·互动",
+   "kind": "summarize_log",
+   "label": "engagement_round",
+   "input_tokens": 2083,
+   "cached_tokens": 12000,
+   "output_tokens": 283
+  },
+  {
+   "ts": "2026-10-13T10:54:42+08:00",
+   "routine": "0·掉线补跑",
+   "kind": "log_check",
+   "label": "catchup_check",
+   "input_tokens": 30387,
+   "cached_tokens": 12000,
+   "output_tokens": 200
+  },
+  {
+   "ts": "2026-10-13T11:43:00+08:00",
+   "routine": "3·互动",
+   "kind": "draft_public_reply",
+   "label": "reply",
+   "input_tokens": 3043,
+   "cached_tokens": 12000,
+   "output_tokens": 443
+  },
+  {
+   "ts": "2026-10-13T11:48:50+08:00",
+   "routine": "3·互动",
+   "kind": "draft_public_reply",
+   "label": "reply",
+   "input_tokens": 3040,
+   "cached_tokens": 12000,
+   "output_tokens": 440
+  },
+  {
+   "ts": "2026-10-13T11:43:41+08:00",
+   "routine": "3·互动",
+   "kind": "ui_action",
+   "label": "like",
+   "input_tokens": 300,
+   "cached_tokens": 12000,
+   "output_tokens": 120
+  },
+  {
+   "ts": "2026-10-13T11:49:30+08:00",
+   "routine": "3·互动",
+   "kind": "ui_action",
+   "label": "like",
+   "input_tokens": 314,
+   "cached_tokens": 12000,
+   "output_tokens": 120
+  },
+  {
+   "ts": "2026-10-13T11:50:30+08:00",
+   "routine": "3·互动",
+   "kind": "ui_action",
+   "label": "like",
+   "input_tokens": 315,
+   "cached_tokens": 12000,
+   "output_tokens": 120
+  },
+  {
+   "ts": "2026-10-13T11:51:30+08:00",
+   "routine": "3·互动",
+   "kind": "ui_action",
+   "label": "like",
+   "input_tokens": 315,
+   "cached_tokens": 12000,
+   "output_tokens": 120
+  },
+  {
+   "ts": "2026-10-13T11:52:44+08:00",
+   "routine": "3·互动",
+   "kind": "ui_action",
+   "label": "like",
+   "input_tokens": 300,
+   "cached_tokens": 12000,
+   "output_tokens": 120
+  },
+  {
+   "ts": "2026-10-13T11:53:25+08:00",
+   "routine": "3·互动",
+   "kind": "ui_action",
+   "label": "like",
+   "input_tokens": 300,
+   "cached_tokens": 12000,
+   "output_tokens": 120
+  },
+  {
+   "ts": "2026-10-13T11:53:40+08:00",
+   "routine": "3·互动",
+   "kind": "summarize_log",
+   "label": "engagement_round",
+   "input_tokens": 2031,
+   "cached_tokens": 12000,
+   "output_tokens": 231
+  },
+  {
+   "ts": "2026-10-13T11:58:12+08:00",
+   "routine": "0·掉线补跑",
+   "kind": "log_check",
+   "label": "catchup_check",
+   "input_tokens": 31250,
+   "cached_tokens": 12000,
+   "output_tokens": 200
+  },
+  {
+   "ts": "2026-10-13T12:19:00+08:00",
+   "routine": "3·互动",
+   "kind": "ui_action",
+   "label": "reply_deleted",
+   "input_tokens": 305,
+   "cached_tokens": 12000,
+   "output_tokens": 120
+  },
+  {
+   "ts": "2026-10-13T12:19:59+08:00",
+   "routine": "3·互动",
+   "kind": "draft_public_reply",
+   "label": "reply",
+   "input_tokens": 3042,
+   "cached_tokens": 12000,
+   "output_tokens": 442
+  },
+  {
+   "ts": "2026-10-13T12:20:40+08:00",
+   "routine": "3·互动",
+   "kind": "draft_public_reply",
+   "label": "reply",
+   "input_tokens": 3031,
+   "cached_tokens": 12000,
+   "output_tokens": 431
+  },
+  {
+   "ts": "2026-10-13T12:21:37+08:00",
+   "routine": "3·互动",
+   "kind": "draft_public_reply",
+   "label": "reply",
+   "input_tokens": 3046,
+   "cached_tokens": 12000,
+   "output_tokens": 446
+  },
+  {
+   "ts": "2026-10-13T12:22:30+08:00",
+   "routine": "3·互动",
+   "kind": "ui_action",
+   "label": "like",
+   "input_tokens": 300,
+   "cached_tokens": 12000,
+   "output_tokens": 120
+  },
+  {
+   "ts": "2026-10-13T12:22:45+08:00",
+   "routine": "3·互动",
+   "kind": "ui_action",
+   "label": "like",
+   "input_tokens": 310,
+   "cached_tokens": 12000,
+   "output_tokens": 120
+  },
+  {
+   "ts": "2026-10-13T12:23:00+08:00",
+   "routine": "3·互动",
+   "kind": "ui_action",
+   "label": "like",
+   "input_tokens": 300,
+   "cached_tokens": 12000,
+   "output_tokens": 120
+  },
+  {
+   "ts": "2026-10-13T12:24:00+08:00",
+   "routine": "3·互动",
+   "kind": "scan_classify",
+   "label": "lead_scan",
+   "input_tokens": 6064,
+   "cached_tokens": 12000,
+   "output_tokens": 250
+  },
+  {
+   "ts": "2026-10-13T12:24:00+08:00",
+   "routine": "3·互动",
+   "kind": "summarize_log",
+   "label": "engagement_round",
+   "input_tokens": 2048,
+   "cached_tokens": 12000,
+   "output_tokens": 248
+  },
+  {
+   "ts": "2026-10-13T13:00:00+08:00",
+   "routine": "0·掉线补跑",
+   "kind": "log_check",
+   "label": "catchup_check",
+   "input_tokens": 32149,
+   "cached_tokens": 12000,
+   "output_tokens": 200
+  },
+  {
+   "ts": "2026-10-13T13:56:00+08:00",
+   "routine": "0·掉线补跑",
+   "kind": "log_check",
+   "label": "catchup_check",
+   "input_tokens": 32229,
+   "cached_tokens": 12000,
+   "output_tokens": 200
+  },
+  {
+   "ts": "2026-10-13T14:25:44+08:00",
+   "routine": "3·互动",
+   "kind": "draft_public_reply",
+   "label": "reply",
+   "input_tokens": 3057,
+   "cached_tokens": 12000,
+   "output_tokens": 457
+  },
+  {
+   "ts": "2026-10-13T14:25:44+08:00",
+   "routine": "3·互动",
+   "kind": "draft_public_reply",
+   "label": "reply",
+   "input_tokens": 3074,
+   "cached_tokens": 12000,
+   "output_tokens": 474
+  },
+  {
+   "ts": "2026-10-13T14:25:44+08:00",
+   "routine": "3·互动",
+   "kind": "draft_public_reply",
+   "label": "reply",
+   "input_tokens": 3065,
+   "cached_tokens": 12000,
+   "output_tokens": 465
+  },
+  {
+   "ts": "2026-10-13T14:25:44+08:00",
+   "routine": "3·互动",
+   "kind": "ui_action",
+   "label": "like",
+   "input_tokens": 302,
+   "cached_tokens": 12000,
+   "output_tokens": 120
+  },
+  {
+   "ts": "2026-10-13T14:25:44+08:00",
+   "routine": "3·互动",
+   "kind": "ui_action",
+   "label": "like",
+   "input_tokens": 302,
+   "cached_tokens": 12000,
+   "output_tokens": 120
+  },
+  {
+   "ts": "2026-10-13T14:25:44+08:00",
+   "routine": "3·互动",
+   "kind": "ui_action",
+   "label": "like",
+   "input_tokens": 302,
+   "cached_tokens": 12000,
+   "output_tokens": 120
+  },
+  {
+   "ts": "2026-10-13T14:25:44+08:00",
+   "routine": "3·互动",
+   "kind": "ui_action",
+   "label": "like",
+   "input_tokens": 302,
+   "cached_tokens": 12000,
+   "output_tokens": 120
+  },
+  {
+   "ts": "2026-10-13T14:25:44+08:00",
+   "routine": "3·互动",
+   "kind": "ui_action",
+   "label": "rate_limit",
+   "input_tokens": 381,
+   "cached_tokens": 12000,
+   "output_tokens": 120
+  },
+  {
+   "ts": "2026-10-13T14:25:44+08:00",
+   "routine": "3·互动",
+   "kind": "scan_classify",
+   "label": "lead_scan",
+   "input_tokens": 6054,
+   "cached_tokens": 12000,
+   "output_tokens": 250
+  },
+  {
+   "ts": "2026-10-13T14:25:44+08:00",
+   "routine": "3·互动",
+   "kind": "summarize_log",
+   "label": "engagement_round",
+   "input_tokens": 2065,
+   "cached_tokens": 12000,
+   "output_tokens": 265
+  },
+  {
+   "ts": "2026-10-13T14:58:30+08:00",
+   "routine": "0·掉线补跑",
+   "kind": "log_check",
+   "label": "catchup_check",
+   "input_tokens": 33445,
+   "cached_tokens": 12000,
+   "output_tokens": 200
+  },
+  {
+   "ts": "2026-10-13T15:57:30+08:00",
+   "routine": "0·掉线补跑",
+   "kind": "log_check",
+   "label": "catchup_check",
+   "input_tokens": 33700,
+   "cached_tokens": 12000,
+   "output_tokens": 200
+  },
+  {
+   "ts": "2026-10-13T16:24:03+08:00",
+   "routine": "3·互动",
+   "kind": "draft_public_reply",
+   "label": "reply",
+   "input_tokens": 3082,
+   "cached_tokens": 12000,
+   "output_tokens": 482
+  },
+  {
+   "ts": "2026-10-13T16:24:03+08:00",
+   "routine": "3·互动",
+   "kind": "draft_public_reply",
+   "label": "reply",
+   "input_tokens": 3085,
+   "cached_tokens": 12000,
+   "output_tokens": 485
+  },
+  {
+   "ts": "2026-10-13T16:24:03+08:00",
+   "routine": "3·互动",
+   "kind": "draft_public_reply",
+   "label": "reply",
+   "input_tokens": 3075,
+   "cached_tokens": 12000,
+   "output_tokens": 475
+  },
+  {
+   "ts": "2026-10-13T16:24:03+08:00",
+   "routine": "3·互动",
+   "kind": "ui_action",
+   "label": "like",
+   "input_tokens": 302,
+   "cached_tokens": 12000,
+   "output_tokens": 120
+  },
+  {
+   "ts": "2026-10-13T16:24:03+08:00",
+   "routine": "3·互动",
+   "kind": "ui_action",
+   "label": "like",
+   "input_tokens": 302,
+   "cached_tokens": 12000,
+   "output_tokens": 120
+  },
+  {
+   "ts": "2026-10-13T16:24:03+08:00",
+   "routine": "3·互动",
+   "kind": "ui_action",
+   "label": "like",
+   "input_tokens": 302,
+   "cached_tokens": 12000,
+   "output_tokens": 120
+  },
+  {
+   "ts": "2026-10-13T16:24:03+08:00",
+   "routine": "3·互动",
+   "kind": "ui_action",
+   "label": "like",
+   "input_tokens": 302,
+   "cached_tokens": 12000,
+   "output_tokens": 120
+  },
+  {
+   "ts": "2026-10-13T16:24:03+08:00",
+   "routine": "3·互动",
+   "kind": "scan_classify",
+   "label": "lead_scan",
+   "input_tokens": 6060,
+   "cached_tokens": 12000,
+   "output_tokens": 250
+  },
+  {
+   "ts": "2026-10-13T16:24:03+08:00",
+   "routine": "3·互动",
+   "kind": "summarize_log",
+   "label": "engagement_round",
+   "input_tokens": 2057,
+   "cached_tokens": 12000,
+   "output_tokens": 257
+  },
+  {
+   "ts": "2026-10-13T16:58:00+08:00",
+   "routine": "0·掉线补跑",
+   "kind": "log_check",
+   "label": "catchup_check",
+   "input_tokens": 34700,
+   "cached_tokens": 12000,
+   "output_tokens": 200
+  },
+  {
+   "ts": "2026-10-13T17:54:35+08:00",
+   "routine": "0·掉线补跑",
+   "kind": "log_check",
+   "label": "catchup_check",
+   "input_tokens": 34801,
+   "cached_tokens": 12000,
+   "output_tokens": 200
+  },
+  {
+   "ts": "2026-10-13T18:20:28+08:00",
+   "routine": "3·互动",
+   "kind": "draft_public_reply",
+   "label": "reply",
+   "input_tokens": 3085,
+   "cached_tokens": 12000,
+   "output_tokens": 485
+  },
+  {
+   "ts": "2026-10-13T18:21:04+08:00",
+   "routine": "3·互动",
+   "kind": "draft_public_reply",
+   "label": "reply",
+   "input_tokens": 3092,
+   "cached_tokens": 12000,
+   "output_tokens": 492
+  },
+  {
+   "ts": "2026-10-13T18:21:35+08:00",
+   "routine": "3·互动",
+   "kind": "draft_public_reply",
+   "label": "reply",
+   "input_tokens": 3073,
+   "cached_tokens": 12000,
+   "output_tokens": 473
+  },
+  {
+   "ts": "2026-10-13T18:22:00+08:00",
+   "routine": "3·互动",
+   "kind": "ui_action",
+   "label": "like",
+   "input_tokens": 302,
+   "cached_tokens": 12000,
+   "output_tokens": 120
+  },
+  {
+   "ts": "2026-10-13T18:22:05+08:00",
+   "routine": "3·互动",
+   "kind": "ui_action",
+   "label": "like",
+   "input_tokens": 302,
+   "cached_tokens": 12000,
+   "output_tokens": 120
+  },
+  {
+   "ts": "2026-10-13T18:22:10+08:00",
+   "routine": "3·互动",
+   "kind": "ui_action",
+   "label": "like",
+   "input_tokens": 302,
+   "cached_tokens": 12000,
+   "output_tokens": 120
+  },
+  {
+   "ts": "2026-10-13T18:22:15+08:00",
+   "routine": "3·互动",
+   "kind": "ui_action",
+   "label": "like",
+   "input_tokens": 302,
+   "cached_tokens": 12000,
+   "output_tokens": 120
+  },
+  {
+   "ts": "2026-10-13T18:22:30+08:00",
+   "routine": "3·互动",
+   "kind": "scan_classify",
+   "label": "lead_scan",
+   "input_tokens": 6076,
+   "cached_tokens": 12000,
+   "output_tokens": 250
+  },
+  {
+   "ts": "2026-10-13T18:22:30+08:00",
+   "routine": "3·互动",
+   "kind": "summarize_log",
+   "label": "engagement_round",
+   "input_tokens": 2062,
+   "cached_tokens": 12000,
+   "output_tokens": 262
+  },
+  {
+   "ts": "2026-10-13T18:51:00+08:00",
+   "routine": "0·掉线补跑",
+   "kind": "log_check",
+   "label": "catchup_check",
+   "input_tokens": 35846,
+   "cached_tokens": 12000,
+   "output_tokens": 200
+  }
+ ]
+}

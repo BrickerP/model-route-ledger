@@ -1,0 +1,15 @@
+{
+  "default": "sonnet-5.5",
+  "routes": {
+    "ui_action": "haiku-5.5",
+    "scan_classify": "haiku-5.5",
+    "summarize_log": "haiku-5.5",
+    "log_check": "haiku-5.5",
+    "draft_public_reply": "sonnet-5.5",
+    "draft_public_post": "sonnet-5.5",
+    "research_brief": "sonnet-5.5",
+    "write_code": "opus-5.5"
+  },
+  "never_downgrade": ["draft_public_reply", "draft_public_post", "research_brief", "write_code"],
+  "max_haiku_prompt": 100000
+}
